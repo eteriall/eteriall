@@ -2,15 +2,15 @@
 
 ---
 
-## Hi there 👋,
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ### I'm Alex. I am a tech and psychology enthusiast, would love to  see myself as a Product / Program Manager in my later career.
--------
+
   
 
 
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
 
 - 💬 Ask me about anything and everything!
 - 📫 How to reach me: message me at [Telegram](https://t.me/a_rassk)
