@@ -17,5 +17,3 @@
 # Some of my projects:
 - ## Telegram bot with recommender system for [Habrahabr](https://habr.com/en) posts - [try me!](https://t.me/habr_recommendations_bot)
 - ## VK Bot with anonymous messages - [try me!](https://vk.me/fruvs_bot)
-
-![Saksham's github stats](https://github-readme-stats.vercel.app/api?username=eteriall&show_icons=true)
