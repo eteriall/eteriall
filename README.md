@@ -1,7 +1,5 @@
 # Alexander Rasskazchikov 👨‍💻
 
----
-
 ### I'm Alex. I am a tech and psychology enthusiast, would love to  see myself as a Product / Program Manager in my later career.
 
  
