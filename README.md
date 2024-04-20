@@ -1,6 +1,6 @@
 # Alexander Rasskazchikov 👨‍💻
 
- 
+### Moscow, Russia. HSE Student
 
 
 
