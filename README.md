@@ -1,4 +1,4 @@
 # Alex Rasskazchikov
 
-- CRM / ERP / AI / Other business intelligence tools
+- CRM / ERP / AI / Business intelligence tools
 - [rasskazchikov.de](https://rasskazchikov.de)
